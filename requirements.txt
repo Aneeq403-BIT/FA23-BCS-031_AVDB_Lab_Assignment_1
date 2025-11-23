@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+pandas
+requests
+httpx
+pytest
+pydantic-settings
